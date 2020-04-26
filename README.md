@@ -6,4 +6,4 @@
 5.	Blood bank: Blood bank will receive request for the blood, it will allocate if available or raise a request to other blood banks if not available
 6.	Blood banks should be able to send and receive request through email 
 ## Steps to checkout
-Downalod the Repository, and execute as a java project in your preffered code editory.
+Downalod the Repository, and execute as a java project in your preferred code editor
